@@ -3,9 +3,9 @@
 Step 1: Create a folder and run cmd -> git init </br>
 Step 2: Check status if any untrackable file you have added </br>
 Step 3: Add and commit in your own local pc/laptops run cmd ->
-</br> git add . <s>for all files to make status staged</s> </br> run cmd -> git commit -m "added files".</br>
+</br> git add . <i>for all files to make status staged</i> </br> run cmd -> git commit -m "added files".</br>
 Step 4: Again check for git status. </br>
-<h2>Local git and repo is ready now create a global(remote) repo and name origin(or something)</h2>
+<h5>Local git and repo is ready now create a global(remote) repo and name origin(or something)</h5>
 Step 5: Create a new repo without README.md else we have to clone into local also, or we can make later</br>
 Step 6: Run command -> git remote add origin <-- https link of remote repo --></br>
 Step 7: Run command -> git remove -v (to verify remote) </br>
